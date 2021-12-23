@@ -18,4 +18,4 @@
 * `exp09`: ui
 * `exp10`: rv32-alu and memory
 * `exp11`: rv32-cpu
-* `exp12`: mips PC with Hongwang Liu
+* `exp12`: mips PC cooperated with Hongwang Liu
